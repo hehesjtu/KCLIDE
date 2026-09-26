@@ -1,6 +1,6 @@
 # KCLIDE: Single Image Detail Enhancement Based on Kirchhoff's Current Law
 
-This is the source code of paper named "Single Image Detail Enhancement Based on Kirchhoff's Current Law". This paper is submitted to IEEE Signal Processing Letters.
+This is the source code of the paper named "Single Image Detail Enhancement Based on Kirchhoff's Current Law". This paper has been accepted by IEEE Signal Processing Letters.
 ## Introduction
 This repository contains the implementation of **KCLIDE** (Kirchhoff's Current Law Inspired Detail Enhancement), a single image detail enhancement algorithm. 
 
@@ -25,6 +25,10 @@ Clone the repository and add the folders to your MATLAB path.
 
 ### 2. Running the Demo
 Run the main script to enhance an input image. The default parameters are set according to the paper's experimental settings:
+
+## Contact
+If you have any questions, please contact us at jianghe@cumt.edu.cn.
+
 
 ```matlab
 % Example Configuration
